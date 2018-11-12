@@ -1,4 +1,4 @@
-Aplicação BackEnd para controle de checkin de hóspedes em um hotel.
+Aplicação FrontEnd para controle de checkin de hóspedes em um hotel.
 
 A aplicação foi feita usando o framework React para JavaScript e o Framework Primereact para HTML e CSS.
 
